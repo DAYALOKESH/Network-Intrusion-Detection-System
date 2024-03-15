@@ -13,7 +13,11 @@ Network Intrusion Detection Systems (NIDS) are a critical security tool that mon
    - [UNSW-NB15 Dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset)(found on 12 Mar 2024)
 3. __Code__:
    - [Network Intrusion Detection](https://www.kaggle.com/code/pakinkitti/network-intrusion-detection) (Similar to our project but not same as a whole)(found on 📅03/15/2024 ⏲️ 2.45 am)
+4. __Distributed Machine Learning Framework__:
+   - [CNN](https://www.tensorflow.org/tutorials/distribute/multi_worker_with_keras)
+   - [SVM & Random Forest](https://docs.dask.org/en/stable/)
+   - [SVM & Random Forest](https://spark.apache.org)
 
 ### Note:
 - __Additional Datasets__: [click here](https://staff.itee.uq.edu.au/marius/NIDS_datasets/) (found on 03/15/2024 2.0 am)
-- Since Every Dataset is bulky we are thinking of adapting Federated Learning along with CNN, SVM, and Random-Forest so that we can train the model simultaneously. ( Just a thought i and Josith had, hasn't been fixed yet )
+- Since Every Dataset is bulky we are thinking of adapting Federated Learning along with CNN, SVM, and Random-Forest so that we can train the model simultaneously. (This is just a thought I and Josith had, and hasn't been fixed yet )
